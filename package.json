@@ -1,0 +1,17 @@
+{
+  "name": "deeplogic-assignment",
+  "version": "1.0.0",
+  "description": "to fetch top 6 times.com news",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Aniket Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "node-html-parser": "^6.1.13"
+  }
+}
